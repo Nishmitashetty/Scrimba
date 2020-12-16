@@ -1,20 +1,32 @@
-# Scrimba
-
 This repository contains my javascript solutions for #javascriptmas challenge on Scrimba.
 
 Please click on the link to check and run my solution.
 
-[Century From Year](https://scrimba.com/scrim/co61d4655b909436bb667db6c)
+Solution 1: [Candy](https://scrimba.com/scrim/co8244dc1b5a6deb54364f0a2)
 
-[count Vowel Consonant](https://scrimba.com/learn/adventcalendar/note-at-1-06-co3ae41f586990ae516cdb851)
+Solution 2: [Deposit Profit](https://scrimba.com/scrim/coe924df9a23ed92701f9c32b)
 
-[Rolling Dice](https://scrimba.com/scrim/coa8a418daae80c5a6facf7d7)
+Solution 3: [ChunkyMonkey](https://scrimba.com/scrim/co3d647dfb0948e7599c87481)
 
-[adjacentElementsProduct]( https://scrimba.com/scrim/co5024c90ad8a7262509a2ef6)
+Solution 4: [Century From Year](https://scrimba.com/scrim/co61d4655b909436bb667db6c)
 
-[extractEachKth]( https://scrimba.com/scrim/cofc34dba9ba11e4326223e5d)
+Solution 5: [Reverse a String](https://scrimba.com/scrim/cob854537a0fe067dd049657c)
 
-[Carousel]( https://scrimba.com/scrim/coebd413cac8a50385e0bbdf6)
+Solution 6: [Sort By Length](https://scrimba.com/scrim/co6364fb6b1bf322df6ea17c3)
 
-[Dashed String](https://scrimba.com/scrim/cob1e432c9290c67765080caf)
+Solution 7: [count Vowel Consonant](https://scrimba.com/learn/adventcalendar/note-at-1-06-co3ae41f586990ae516cdb851)
+
+Solution 8: [Rolling Dice](https://scrimba.com/scrim/coa8a418daae80c5a6facf7d7)
+
+Solution 9: [Sum of Odd Fibonacci numbers](https://scrimba.com/scrim/co35c4ddaa03dcb52420b3669)
+
+Solution 10: [adjacentElementsProduct]( https://scrimba.com/scrim/co5024c90ad8a7262509a2ef6)
+
+Solution 12: [Valid Time](https://scrimba.com/scrim/cob594c7ea0bf61f8ec392eae)
+
+Solution 13: [KthElement](https://scrimba.com/scrim/cofc34dba9ba11e4326223e5d)
+
+Solution 15: [Carousel]( https://scrimba.com/scrim/coebd413cac8a50385e0bbdf6)
+
+Solution 16: [Dashed String](https://scrimba.com/scrim/cob1e432c9290c67765080caf)
 
