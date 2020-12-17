@@ -30,3 +30,6 @@ Solution 15: [Carousel]( https://scrimba.com/scrim/coebd413cac8a50385e0bbdf6)
 
 Solution 16: [Dashed String](https://scrimba.com/scrim/cob1e432c9290c67765080caf)
 
+Solution 17: [Different Symbols Naive](https://scrimba.com/scrim/coe0c4d779fcd2e2c3cbc0032)
+
+
