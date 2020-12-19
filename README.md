@@ -32,4 +32,8 @@ Solution 16: [Dashed String](https://scrimba.com/scrim/cob1e432c9290c67765080caf
 
 Solution 17: [Different Symbols Naive](https://scrimba.com/scrim/coe0c4d779fcd2e2c3cbc0032)
 
+Solution 18: [Array PreviousLess](https://scrimba.com/scrim/co9c540419f7e6f917e8cb169)
+
+Solution 19: [Alphabet Subsequence](https://scrimba.com/scrim/co5a945a48855dccbe2abb3f7)
+
 
