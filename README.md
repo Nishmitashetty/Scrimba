@@ -36,4 +36,5 @@ Solution 18: [Array PreviousLess](https://scrimba.com/scrim/co9c540419f7e6f917e8
 
 Solution 19: [Alphabet Subsequence](https://scrimba.com/scrim/co5a945a48855dccbe2abb3f7)
 
+Solution 20: [Domain Type](https://scrimba.com/scrim/co8cd44ce80a92bf8fc67fa1e)
 
