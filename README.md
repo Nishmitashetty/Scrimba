@@ -42,7 +42,11 @@ Solution 19: [Alphabet Subsequence](https://scrimba.com/scrim/co5a945a48855dccbe
 
 Solution 20: [Domain Type](https://scrimba.com/scrim/co8cd44ce80a92bf8fc67fa1e)
 
-Solution 21: [Sum Of Two](https://scrimba.com/scrim/co3b3467bbae104be7a62ec2a)
+Solution 21: [Extract Matrix Column](https://scrimba.com/scrim/co2d040e99c5f9343087887a9)
+
+Solution 23: [Social Media Character](https://scrimba.com/scrim/co08543a6afb5733a2416c04e)
+
+
 
 
 
