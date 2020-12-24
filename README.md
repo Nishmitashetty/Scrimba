@@ -46,6 +46,8 @@ Solution 21: [Extract Matrix Column](https://scrimba.com/scrim/co2d040e99c5f9343
 
 Solution 23: [Social Media Character](https://scrimba.com/scrim/co08543a6afb5733a2416c04e)
 
+Solution 24: [Test your agility!](https://scrimba.com/scrim/co8fa4e16bb501e0f4a255a00)
+
 
 
 
